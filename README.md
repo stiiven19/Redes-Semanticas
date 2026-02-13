@@ -5,8 +5,6 @@
 ![JGraphT](https://img.shields.io/badge/JGraphT-5E2CA5?style=for-the-badge&logo=graph&logoColor=white)
 ![GraphStream](https://img.shields.io/badge/GraphStream-00599C?style=for-the-badge&logo=graph&logoColor=white)
 
-![Vista previa de la aplicación](imagenes/Grafo%20Graficado.png)
-
 Este proyecto implementa un sistema de redes semánticas avanzado que permite modelar y manipular conocimiento a través de grafos. Las redes semánticas son una forma poderosa de representar el conocimiento mediante nodos (conceptos) y aristas (relaciones), permitiendo un análisis detallado de las conexiones entre conceptos.
 
 ## Características Principales
